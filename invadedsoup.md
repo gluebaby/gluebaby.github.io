@@ -18,4 +18,4 @@ so if you would like to deploy this plugin you may want to modify it to suit you
 
 # Source Code
 
-As promised, the source code can be found here on my github: https://github.com/guthman01/invadedsoup
+As promised, the source code can be found [here](https://github.com/guthman01/invadedsoup) on my github. 
