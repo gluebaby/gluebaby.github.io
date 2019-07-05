@@ -2,7 +2,7 @@
 layout: post
 title: Welcome!
 image: /img/avatar-icon.png
-published: false
+published: true
 ---
 
 # This is my new site.
