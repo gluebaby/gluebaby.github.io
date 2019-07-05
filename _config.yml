@@ -20,7 +20,7 @@ description: My Desk - Full of Odd Stories, Thoughts, and Projects
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
+  Home: "https://guthman01.github.io"
   About Me: "aboutme"
   Projects:
     - WildCat: ""
