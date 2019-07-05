@@ -21,10 +21,10 @@ description: My Desk - Full of Odd Stories, Thoughts, and Projects
 # List of links in the navigation bar
 navbar-links:
   Home: "https://guthman01.github.io"
-  About Me: "aboutme"
   Projects:
     - WildCat: ""
     - InvadedSoup: "https://github.com/guthman01/invadedsoup"
+  About Me: "aboutme"
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
