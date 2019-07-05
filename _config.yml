@@ -21,14 +21,22 @@ description: My Desk - Full of Odd Stories, Thoughts, and Projects
 # List of links in the navigation bar
 navbar-links:
   Home: "https://guthman01.github.io"
-  Projects:
-    - WildCat: ""
+  Coding: 
     - InvadedSoup: "invadedsoup"
+    - WildCat: ""
+    - Vaults: "vaults"
+    - Spigot Profile: "https://www.spigotmc.org/members/undead_guppy.134646/"
+  Projects:
+  Art/Design:
     - Photography: "https://drive.google.com/open?id=1z5sxIX0rWUKP5GpHzxZXczLJkySj4iIF"
     - Minecraft Art: "https://imgur.com/a/wHtcE"
-    - Spigot Profile: "https://www.spigotmc.org/members/undead_guppy.134646/"
-  Useful Stuff:
-    - Markdown Tutorial: "https://www.markdowntutorial.com/"
+  Websites: 
+    - Hilary Brougher: "http://hilarybrougher.com/"
+    - South Mountain Film: "https://southmountainfilm.com"
+    - Bill Manly: "https://billmanly.com/"
+    - Laurel Porterfield: "https://laurelporterfield.com/"
+    - This!: "https://guthman01.github.io/"
+    
   About Me: "aboutme"
 
 
