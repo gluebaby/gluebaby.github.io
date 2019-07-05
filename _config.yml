@@ -23,7 +23,7 @@ navbar-links:
   Home: ""
   About Me: "aboutme"
   Projects:
-    - WildCat: "http://deanattali.com/beautiful-jekyll/"
+    - WildCat: ""
     - InvadedSoup: "https://github.com/guthman01/invadedsoup"
 
 
