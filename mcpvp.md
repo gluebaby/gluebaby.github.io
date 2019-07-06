@@ -40,5 +40,49 @@ with occasional pvp tournaments that would have real cash prizes (the good old d
 
 ### 2012 
 
+In 2012, the server shifted from a single gamemode to a variety of fast paced "mini-games." While hardcore pvp was still mcpvp's primary gamemode and server,
+gamemodes like CTF (mcctf.com), KitPVP (kitpvp.us), and the hardcore games (mc-hg.com). This was only the beginning of 
+what mcpvp was soon to become; a full fledged network.
+
+### 2013
+
+2013 was arguably mcpvp's prime. They were growing quickly, and had launched 3 new gamemodes, Sabotage (mc-sabotage.com), Super Smash PVP (mcsmash.com), and
+the lesser known Zone Control (mc-zones.com). Mcpvp was thriving, and averaged thousands of daily players, something quite impressive
+so early in the world of Minecraft servers. While hardcore pvp was still going strong, it was clear that quicker, smaller gamemodes
+were becoming the focus of mcpvp's resources. As a wise man once said, mc-hg brings in the players, hardcore pvp makes them stay.
+
+### 2014
+
+Ok, maybe I lied a little. 2014 was DEFINITLEY mcpvp's prime. 3 more gamemodes were released, Maze Runner (mc-maze.com), Minecraft Build (minecraftbuild.com),
+and Headshot (mcheadshot.com). You may notice a trend here with all 3 of these games. These were definitely the __least__ pvp oriented 
+gamemodes mcpvp had under it's belt. This migration away from the hardcore, no rules bloodfest that mcpvp started as created somewhat
+of a division between newbies and veterans. Despite this, the server was continuing to thrive and grow, to seemingly no end. Unfortunately,
+this quickly took a twist.
+
+### 2015 
+
+"The death of mcpvp." How's that for a dramatic title? No? Ok. Jokes aside, mcpvp had been doing well, at least so it seemed.
+A new server partnership with PVPDojo was coming, each of the gamemodes was fairly popular, and mcpvp had at this point made a name for itself
+for sure. However, that quickly proved to be false. According to Hclewk's post on May 17, 2015, mcpvp hadn't made a profit in 6 months, starting all
+the way back in November of 2014. The iconic "Farewell MCPVP" post explained Brawl's purchase of HG, CTF, and Build, as well as the Minecraftpvp and Mcpvp domains.
+The other gamemodes either disappeared into the void, or were picked up by smaller servers. Examples of this include 
+mc-maze moving to MunchyMC and Sabotage moving to it's own dedicated server. This day was a sad one for many, as the place
+long time players had once called home was no more. 
+
+### Bonus: Mistborn/MCRPG
+
+In 2016, Hclewk came back, seemingly out of nowhere with a new server: MCRPG. This pvp server was largely based on the orignal raid,
+yet with a magical twist. The server had gameplay elements inspired by the "Mistborn" series of novels. The server ran rather 
+casually for roughly a year, and then suddenly closed down. Currently the website is still up at mcrpg.com, but as of now, 
+the state/future of MCRPG is unknown.
+
+### Conclusion:
+
+Sadly, I doubt that Hclewk will come back with another project. Minecraft is not as popular as it was, and has gone in an 
+entirely different direction from what made it work so well for mcpvp style gamemodes. I do hope that it's memory lives on,
+and that maybe some day a new server will come along and reintroduce thousands of players to the magic of mcpvp. However, no matter what
+happens, one thing is for sure; no server that has ever been, or will be, will ever be able to achieve the same level of intamacy between it and 
+it's player base that mcpvp was able to achieve. We miss you, and remember you, mcpvp. Rest in peace, 2011 - 2015.
+
 
 
