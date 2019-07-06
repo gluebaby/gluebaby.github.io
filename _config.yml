@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Guthrie's Room
+title: Guthrie's Desk
 
 # Short description of your site
 description: My Desk - Full of Odd Stories, Thoughts, and Projects
@@ -25,7 +25,10 @@ navbar-links:
     - InvadedSoup: "invadedsoup"
     - WildCat: ""
     - Vaults: "vaults"
-    - Spigot Profile: "https://www.spigotmc.org/members/undead_guppy.134646/"
+    - Raid-Remake: "https://github.com/guthman01/Raid-Remake"
+    - gKoth: "https://github.com/guthman01/gKoth"
+    - Fidget-Spinners: "https://github.com/guthman01/Fidget-Spinners"
+    - LunarPvP: "https://github.com/guthman01/LunarPvP"
   Projects:
     - Unoffical MCPVP Archive: "mcpvp"
   Art/Design:
