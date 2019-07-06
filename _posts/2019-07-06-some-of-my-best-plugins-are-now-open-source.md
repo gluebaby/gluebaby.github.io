@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Some of my BEST plugins are now open source!
 ---
 ###Open Source Time!
