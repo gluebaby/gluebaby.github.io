@@ -16,7 +16,7 @@ description: My Desk - Full of Odd Stories, Thoughts, and Projects
 # baseurl should be an empty string
 #baseurl: ""
 
-# --- Navigation bar options --- 
+# --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
