@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: MCPVP Archive is up!
 ---
 ## MCPVP Archive is LIVE!
