@@ -29,7 +29,7 @@ most of this stuff is quite old, and therefore extremely different from where it
 	- [2015](https://web.archive.org/web/20150103153345/http://www.minecraftpvp.com/)
 	- [2015 - Shutdown Post](https://web.archive.org/web/20150519232108/http://forum.minecraftpvp.com/t/farewell-mcpvp-we-are-shutting-down/111952)
 	
-- [Plugins]() - Not for resale, just for admiration and adaptation.
+- [Plugins](https://github.com/guthman01/mcpvp-archive) - Not for resale, just for admiration and adaptation.
 
 ### 2011
 
