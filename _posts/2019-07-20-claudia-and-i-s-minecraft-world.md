@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Claudia and I's minecraft world.
 ---
 ## Check it out!
