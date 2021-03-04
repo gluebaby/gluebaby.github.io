@@ -22,11 +22,12 @@ description: My Desk - Full of Odd Stories, Thoughts, and Projects
 navbar-links:
   Home: "https://guthman01.github.io"
   Coding: 
+    - DamageData: "damagedata"
+    - gVanillaCTF: "gvanillactf"
     - InvadedSoup: "invadedsoup"
-    - WildCat: ""
+    - LunarPvP: "lunarpvp"
     - Vaults: "vaults"
     - Raid-Remake: "https://github.com/guthman01/Raid-Remake"
-    - gKoth: "https://github.com/guthman01/gKoth"
     - Fidget-Spinners: "https://github.com/guthman01/Fidget-Spinners"
     - LunarPvP: "https://github.com/guthman01/LunarPvP"
   Projects:
