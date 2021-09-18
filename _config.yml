@@ -20,6 +20,8 @@ description: My hardware/software/art projects
 # List of links in the navigation bar
 navbar-links:
   Home: "https://gluebaby.github.io"
+  Engineering Projects:
+    - Working on it!:
   Applied Programming:
     - Working on it!:
   CAD/3D Modeling:
