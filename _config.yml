@@ -1,11 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Guthrie's Desk
+title: PorterfieldDynamics
 
 # Short description of your site
-description: My Desk - Full of Odd Stories, Thoughts, and Projects
-
+description: My hardware/software/art projects
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
@@ -20,7 +19,7 @@ description: My Desk - Full of Odd Stories, Thoughts, and Projects
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "https://guthman01.github.io"
+  Home: "https://gluebaby.github.io"
   Coding: 
     - DamageData: "damagedata"
     - gVanillaCTF: "gvanillactf"
