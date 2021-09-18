@@ -21,11 +21,9 @@ description: My hardware/software/art projects
 navbar-links:
   Home: "https://gluebaby.github.io"
   Programming:
-    Submenu: 
-      - DamageData: "damagedata"
-      - gVanillaCTF: "gvanillactf"
-      - InvadedSoup: "invadedsoup"
-      - LunarPvP: "lunarpvp"
+    Submenu:
+      - DamageDataSub: "damagedata"
+    	
   Coding: 
     - DamageData: "damagedata"
     - gVanillaCTF: "gvanillactf"
