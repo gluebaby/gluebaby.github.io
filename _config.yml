@@ -23,7 +23,6 @@ navbar-links:
   Programming:
     Submenu:
       - DamageDataSub: "damagedata"
-    	
   Coding: 
     - DamageData: "damagedata"
     - gVanillaCTF: "gvanillactf"
