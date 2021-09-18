@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+published: true
 ---
 
 My name is Guthrie.
@@ -11,6 +12,4 @@ My name is Guthrie.
 - I take photos.
 - And code too.
 - And build stuff. Lots of stuff.
-
-What else do you need?
 
