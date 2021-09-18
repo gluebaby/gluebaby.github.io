@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: You sure wish you knew.
 ---
 
 My name is Guthrie.
