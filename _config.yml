@@ -20,10 +20,11 @@ description: My hardware/software/art projects
 # List of links in the navigation bar
 navbar-links:
   Home: "https://gluebaby.github.io"
-  Programming:
-    Submenu:
-      - DamageDataSub: "damagedata"
-  Coding: 
+  Applied Programming:
+    - Working on it!
+  CAD/3D Modeling:
+    - Thingiverse Profile: "https://www.thingiverse.com/gluebaby/designs"
+  Misc. Prioject: 
     - DamageData: "damagedata"
     - gVanillaCTF: "gvanillactf"
     - InvadedSoup: "invadedsoup"
@@ -32,18 +33,17 @@ navbar-links:
     - Raid-Remake: "https://github.com/guthman01/Raid-Remake"
     - Fidget-Spinners: "https://github.com/guthman01/Fidget-Spinners"
     - LunarPvP: "https://github.com/guthman01/LunarPvP"
-  Projects:
     - Unoffical MCPVP Archive: "mcpvp"
     - GamerLand 2 Minecraft World: "/world/world1.html"
+    - Minecraft Art: "https://imgur.com/a/wHtcE"
   Art/Design:
     - Photography: "https://drive.google.com/open?id=1z5sxIX0rWUKP5GpHzxZXczLJkySj4iIF"
-    - Minecraft Art: "https://imgur.com/a/wHtcE"
   Websites: 
     - Hilary Brougher: "http://hilarybrougher.com/"
     - South Mountain Film: "https://southmountainfilm.com"
     - Bill Manly: "https://billmanly.com/"
     - Laurel Porterfield: "https://laurelporterfield.com/"
-    - This!: "https://guthman01.github.io/"
+    - This!: "https://gluebaby.github.io/"
     
   About Me: "aboutme"
 
