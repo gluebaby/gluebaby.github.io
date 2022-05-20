@@ -20,6 +20,9 @@ description: My hardware/software/art projects
 # List of links in the navigation bar
 navbar-links:
   Home: "https://gluebaby.github.io"
+  
+  Thumbee: :"thumbee"
+  
   Engineering Projects:
     - Working on it!:
   Programming:
